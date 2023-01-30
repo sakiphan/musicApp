@@ -1,6 +1,6 @@
 # musicApp Mobile
 
-newsApp Mobile is built using TypeScript, Redux, LinguiJS, and React/React Native.
+musicApp Mobile is built using TypeScript and React/React Native.
 It uses Metro, the JavaScript bundler for React Native to join the code and all its dependencies together.
 
 
